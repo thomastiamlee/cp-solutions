@@ -48,6 +48,4 @@ int main()
         else
             printf("Player %d wins.\n", winner);
     }
-
-
 }
